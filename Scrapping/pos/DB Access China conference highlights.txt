@@ -1,0 +1,21 @@
+海康威视(002415)
+
+Maintain BUY and TP of CNY43
+
+Hikvision attended DB's Access China Conference 2018 in Beijing on 10January 2018. We summarize the key takeaways in this note. Maintain BUY.
+
+Solid growth outlook with management guidance of 20-30% growth
+
+Management maintained its prior guidance of 20-30% sales growth each yearin 2017/2018.The growth will stem from both the domestic and overseasmarket as the company continues to expand market share. Hikvision notedthat the rising network transmission bandwidth with the lowering price fordata transmission will continue enabling product upgrades with higherresolution and better image quality for the recorded image/video. Currently, weforecast Hikvision's revenue to grow 28%/27% in 2017/2018, respectively.
+
+Long term GPM target of over 40%; DB expect margin stabilization
+
+Following years of margin decline, 1-3Q2017 GPM has reversed the trend.Management attributed to a) improving product mix with less contributionfrom low margin HDD sales, b) earlier payment discount to its suppliers, c)higher margin associated with AI products. We expect 4Q17 GPM to trenddown, as with historical pattern, given the rise in the low margin constructionrevenue before the year ends. Compared to management's long term grossmargin target of over 40%, we expect Hikvision's GPM to stabilize at 44% in2018/19, driven by rising contribution from solution business and AI products.
+
+AI: focus on applications with its "AI cloud" framework
+
+Much discussions focused on Hikvision's exposure to AI and the competitivelandscape. The company believes the high price tag for AI-equipped productsremains the hurdle for a widespread adoption. In addition to algorithm,Hikvision focuses on the AI applications with a complete product line fromfront-end camera to back-end recorders/servers. The management's strategy inits "AI cloud" targets edge cloud to filter unnecessary data and provide fasterresponse given amount of image/video that each camera collects and the loadon the data transmission network. Currently, the AI equipment were sold in acomplete solution for mostly the public safety and transportation projectswithin the domestic China, to increase efficiency. On its AI exposure in theoverseas market, Hikvision won a smart city project in Singapore in 2017. Weestimate that AI products only has single digit contribution to Hikvision but therising adoption of AI will be both revenue and profit accretive.
+
+Valuation and risks
+
+Hikvision remains one of the top buys in the Asian hardware space. Wereiterate our BUY rating with target price of CNY43, which is based on 30xFY2018E PE, supported by 34% profit CAGR in 2017-2019, and 36% averageROE. Risks: market share loss, weak demand in industry project orders.
