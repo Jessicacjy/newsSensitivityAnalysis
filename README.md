@@ -1,6 +1,7 @@
 # newsSensitivityAnalysis
-新闻情感分析
+**新闻情感分析**
 
+主要文件：
 1. **east_yanbao.ipynb**
   - 从东方财富网爬取研报
   - 运用虚拟web来获取java借口的研报
