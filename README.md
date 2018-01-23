@@ -26,3 +26,8 @@
   
 4. **SentimentlAnalysis.ipynb**
   - 读进一篇研报，用已训练好的模型，预测这是一篇正面还是负面的新闻，并且正负面的值
+
+5. **WordCorpes.ipynb**
+  - 生成词云
+    ![正面](img/thumbup_pos.png)
+    
